@@ -8,7 +8,7 @@ __In progress...__
 
 ![In progress icon](https://i.gifer.com/origin/82/82a1ed531e333926a8ca2a00c277e0d1.gif)
 
-__Summary__
+# __Summary__
 
 The main purpose of this project is:
 
