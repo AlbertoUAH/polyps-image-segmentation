@@ -13,5 +13,8 @@ __Summary__
 The main purpose of this project is:
 
 1. "Offline" Polyps segmentation using traditional U-Net model
+
+![Unet segmentation sample output](./media/unet_segmentation_sample.png)
+
 2. "Oline" Polyps segmentation in video capsule endoscopy using a lightweight model
 
