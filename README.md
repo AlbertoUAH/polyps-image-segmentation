@@ -18,3 +18,4 @@ The main purpose of this project is:
 
 2. "Oline" Polyps segmentation in video capsule endoscopy using a lightweight model
 
+Best model: MobileNet_v2 architecture - NanoNet version
