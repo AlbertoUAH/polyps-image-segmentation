@@ -27,3 +27,8 @@ __Intersection over Union score (IoU)__:
 | _train_ | 0.7398 | 
 | _val_ | 0.7003 |  
 | _test_ | 0.7150401 |
+
+# References
+
+![NanoNet: Real-Time Polyp Segmentation in Video Capsule Endoscopy and Colonoscopy](https://github.com/DebeshJha/NanoNet)
+![Deep Neural Networks approaches for detecting and classifying colorectal polyps](https://www.researchgate.net/publication/341345834_Deep_Neural_Networks_approaches_for_detecting_and_classifying_colorectal_polyps)
