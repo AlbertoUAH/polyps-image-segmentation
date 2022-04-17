@@ -12,13 +12,19 @@ __In progress...__
 
 The main purpose of this project is:
 
-1. "Offline" Polyps segmentation using traditional U-Net model
+## "Offline" Polyps segmentation using traditional U-Net model
 
 <img src="./media/unet_architecture.png" alt="Unet segmentation sample output" width="650" class="center"/>
 
+| Data type | IoU score |
+| --------- | --------- |
+| _train_ | 0.9589 | 
+| _val_ | 0.9563 |  
+| _test_ | 0.9219 |
+
 ![Unet segmentation sample output](./media/unet_segmentation_sample.png)
 
-2. What if we employ a lightweight model?
+## What if we employ a lightweight model?
 
 __First approach__: MobileNet_v2 architecture - NanoNet version
 
