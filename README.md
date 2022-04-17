@@ -16,9 +16,9 @@ The main purpose of this project is:
 
 ![Unet segmentation sample output](./media/unet_segmentation_sample.png)
 
-2. "Oline" Polyps segmentation in video capsule endoscopy using a lightweight model
+2. What if we employ a lightweight model?
 
-Best model: MobileNet_v2 architecture - NanoNet version
+__First approach__: MobileNet_v2 architecture - NanoNet version
 
 __Intersection over Union score (IoU)__:
 
@@ -27,6 +27,8 @@ __Intersection over Union score (IoU)__:
 | _train_ | 0.7605 | 
 | _val_ | 0.7117 |  
 | _test_ | 0.7384 |
+
+
 
 # References
 
