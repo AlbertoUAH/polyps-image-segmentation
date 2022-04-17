@@ -24,9 +24,9 @@ __Intersection over Union score (IoU)__:
 
 | Data type | IoU score |
 | --------- | --------- |
-| _train_ | 0.7398 | 
-| _val_ | 0.7003 |  
-| _test_ | 0.7150401 |
+| _train_ | 0.7605 | 
+| _val_ | 0.7117 |  
+| _test_ | 0.7384 |
 
 # References
 
