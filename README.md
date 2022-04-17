@@ -20,6 +20,8 @@ The main purpose of this project is:
 
 __First approach__: MobileNet_v2 architecture - NanoNet version
 
+__Number of parameters__: ~284 K parameters. 
+
 __Intersection over Union score (IoU)__:
 
 | Data type | IoU score |
