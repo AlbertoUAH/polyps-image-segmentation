@@ -14,7 +14,7 @@ The main purpose of this project is:
 
 1. "Offline" Polyps segmentation using traditional U-Net model
 
-<img src="./media/unet_architecture.png" alt="Unet segmentation sample output" width="600"/>
+<img src="./media/unet_architecture.png" alt="Unet segmentation sample output" width="650" class="center"/>
 
 ![Unet segmentation sample output](./media/unet_segmentation_sample.png)
 
