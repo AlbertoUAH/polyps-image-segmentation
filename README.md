@@ -28,7 +28,7 @@ __Intersection over Union score (IoU)__:
 | _val_ | 0.7117 |  
 | _test_ | 0.7384 |
 
-
+![NanoNet sample predictions](./media/nanonet_predictions_sample.png)
 
 # References
 
