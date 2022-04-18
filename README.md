@@ -24,7 +24,7 @@ The main purpose of this project is:
 
 ![Unet segmentation sample output](./media/unet_segmentation_sample.png)
 
-## What if we employ a lightweight model?
+## What if we train a lightweight model?
 
 __First approach__: MobileNet_v2 architecture - NanoNet version
 
